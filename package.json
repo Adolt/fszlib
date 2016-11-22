@@ -1,0 +1,22 @@
+{
+  "name": "fszlib",
+  "version": "1.0.0",
+  "description": "compress and uncompress lib",
+  "main": "fszlib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adolt/fszlib.git"
+  },
+  "keywords": [
+    "compress"
+  ],
+  "author": "Adolt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adolt/fszlib/issues"
+  },
+  "homepage": "https://github.com/Adolt/fszlib#readme"
+}
